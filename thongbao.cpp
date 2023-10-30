@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"HI"
+    cout << "HI";
+    cout << "xin chao";
 }
